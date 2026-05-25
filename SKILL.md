@@ -1,5 +1,5 @@
 ---
-name: web-astro-landing
+name: minia-web-astro
 description: "Use when building, reviewing, or modifying public marketing/SEO landing projects using Astro, Bun, MDX Content Collections, Tailwind CSS, static generation, React islands, forms, sitemap/RSS/robots, Cloudflare Pages, or landing-page CI/testing."
 ---
 

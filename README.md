@@ -1,4 +1,4 @@
-# web-astro-landing
+# minia-web-astro
 
 opencode skill for building, reviewing, and modifying public marketing and SEO landing projects with Astro.
 
@@ -44,4 +44,4 @@ bun run build
 
 ## Skill File
 
-The skill instructions live in [`SKILL.md`](./SKILL.md). opencode discovers this repository as an external skill from `~/.agents/skills/web-astro-landing/SKILL.md`.
+The skill instructions live in [`SKILL.md`](./SKILL.md). opencode discovers this repository as an external skill from `~/.agents/skills/minia-web-astro/SKILL.md`.
